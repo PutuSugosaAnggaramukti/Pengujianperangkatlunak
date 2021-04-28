@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>pengujian login dengan variabel</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>754ca6e5-5acd-4268-b670-9b991901bd36</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7cfe61c0-66cc-4e83-b48b-3ba7ccd19f15</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>de206e98-1d6d-4127-a1d7-a90eaa5ec1b0</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
